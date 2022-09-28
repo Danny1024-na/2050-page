@@ -1,0 +1,28 @@
+.navBarStyle{
+    font-size: 18px;
+    font-weight: 700;
+    display: inline-block;
+    text-transform: capitalize;
+    padding: 53px 0;
+    position: relative;
+}
+
+.navBarStyle :hover{
+    color:#6c63ff;
+}
+
+.nav-link {
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    color: var(--bs-nav-link-color);
+    text-decoration: none;
+    color: #222222;
+    transition: background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+.socialMediaStyle{
+    margin-left: 30px;
+    direction: unset;
+}
