@@ -26,9 +26,11 @@
     margin-left: 30px;
 }
 
-.words{
+.titles{
     font-size: 24px;
     line-height: 2;
+    color: #6c63ff;
+    font-weight: 700;
 }
 
 .button{
@@ -47,3 +49,18 @@
     background-color: white;
     color: #6c63ff;
 }
+
+.underTitles{
+    color: #222222;
+    padding-bottom: 20px; 
+    font-weight: 1000;
+}
+
+.lorem{
+    font-size: 18px;
+    line-height: 1.55;
+    word-wrap: break-word;
+    word-break: break-all;
+    margin-bottom: 50px;
+}
+
