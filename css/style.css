@@ -65,3 +65,7 @@
     margin-bottom: 50px;
 }
 
+.photos:hover{
+    border-radius: 40px;
+}
+
