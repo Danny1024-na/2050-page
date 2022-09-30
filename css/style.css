@@ -69,8 +69,13 @@
     border-radius: 40px;
 }
 
-.cards:hover{
-    zoom: unset;
-    max-zoom: 30px;
+.inputStyle{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #f1f6fb;
+    margin-bottom: 10px;
+    border: white;
 }
 
