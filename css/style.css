@@ -69,3 +69,8 @@
     border-radius: 40px;
 }
 
+.cards:hover{
+    zoom: unset;
+    max-zoom: 30px;
+}
+
