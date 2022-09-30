@@ -79,3 +79,13 @@
     border: white;
 }
 
+.links{
+    text-decoration: none;
+    color: #222222;
+}
+
+.links:hover{
+    color: #6c63ff;
+    text-decoration: underline;
+}
+
