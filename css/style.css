@@ -22,6 +22,20 @@
     transition: background-color .15s ease-in-out,border-color .15s ease-in-out;
 }
 
+.hover01{
+    overflow: hidden;
+}
+
+.hover01 :hover{
+	transform: scale(1.1);
+	transition: 0.3s ease-in-out;
+}
+
+.hover02 :hover{
+	transform: scale(1.1);
+	transition: 0.3s ease-in-out;
+}
+
 .socialMediaStyle{
     margin-left: 30px;
 }
